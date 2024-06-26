@@ -1,0 +1,15 @@
+@import url("/Styles/navBar.css");
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+:root{
+    --background:#FFFFFF;
+    --title-color:#101828;
+    --logo-color:#3A404E;
+    --text-color:#667085;
+    --hightlight-color:#8E2424;
+    --default-font: "Inter", sans-serif
+}
+body{
+    padding: 1.125em 5em;
+    font-family: var(--default-font);
+}

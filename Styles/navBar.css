@@ -1,0 +1,32 @@
+#navBar{
+    display: flex;
+    justify-content: space-between;
+    padding: 0em 2em;
+    align-items: center;
+}
+#navBar__logo{
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+}
+#navBar__logo__text{
+    color: var(--logo-color);
+}
+#navBar__explorator{
+    margin-right: 20%;
+}
+.navBar__link{
+    color: var(--text-color);
+    text-decoration: none;
+}
+.navBar__content{
+    display: flex;
+    gap: 2em;
+    align-items: center;
+}
+#register{
+    background-color: var(--hightlight-color);
+    padding: 0.625em 1.125em;
+    border-radius: 8px;
+    color: var(--background);
+}

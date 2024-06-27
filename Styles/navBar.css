@@ -18,15 +18,14 @@
 .navBar__link{
     color: var(--text-color);
     text-decoration: none;
+    padding: 0.625em 1.125em;
 }
 .navBar__content{
     display: flex;
-    gap: 2em;
     align-items: center;
 }
 #register{
     background-color: var(--hightlight-color);
-    padding: 0.625em 1.125em;
     border-radius: 8px;
     color: var(--background);
 }

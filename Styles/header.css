@@ -1,0 +1,13 @@
+#header{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 1.5em;
+    padding: 6em 20vh;
+}
+#header__red_title{
+    color: var(--hightlight-color);
+}
+#header__main_title{
+    font-size: 48px;
+}

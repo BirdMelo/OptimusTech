@@ -1,0 +1,14 @@
+#metrics{
+    display: flex;
+    gap: 3vh;
+    padding: 0em 2vh 12vh 2vh;
+}
+.metrics__numbers{
+    color: var(--hightlight-color);
+    font-weight: 600;
+    font-size: 60px;
+}
+.metrics__subtitles{
+    font-size: 18px;
+    font-weight: 500;
+}

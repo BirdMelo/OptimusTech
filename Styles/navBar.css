@@ -1,8 +1,8 @@
 #navBar{
     display: flex;
     justify-content: space-between;
-    padding: 0em 2em;
     align-items: center;
+    padding: 0em 2vh;
 }
 #navBar__logo{
     display: flex;

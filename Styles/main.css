@@ -2,6 +2,7 @@
 @import url('/Styles/navBar.css');
 @import url('/Styles/header.css');
 @import url('/Styles/metrics.css');
+@import url('/Styles/talents.css');
 
 :root{
     --background:#FFFFFF;
@@ -9,6 +10,7 @@
     --logo-color:#3A404E;
     --text-color:#667085;
     --hightlight-color:#8E2424;
+    --background-notice-color: #8E24240D;
     --default-font: "Inter", sans-serif
 }
 body{

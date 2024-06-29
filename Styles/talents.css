@@ -1,0 +1,21 @@
+#talents{
+    align-items: center;
+    text-align: center;
+    padding: 0em 2vh;
+    margin-bottom: 4em;
+}
+#talents__notice{
+    display: inline-block;
+    color: var(--hightlight-color);
+    background-color: var(--background-notice-color);
+    padding: 4px 12px;
+    border-radius: 16px;
+    margin-bottom: 1em;
+}
+#talents__text{
+    font-size: 20px;
+    margin: 1.3em 0em 4em 0em;
+}
+#talents__img{
+    width: 100%;
+}

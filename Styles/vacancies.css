@@ -1,0 +1,36 @@
+#vacancies{
+    width: 60%;
+    margin-left: 20%;
+}
+.vacancies__container{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+    margin-top: 4em;
+}
+.vacancies__titles{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 0.5em;
+}
+.vacancies__link{
+    text-decoration: none;
+    width: 100%;
+}
+.vacancies__link__container{
+    border: 2px solid var(--border-link-color);
+    border-radius: 16px;
+    padding: 1.5em;
+}
+.vacancies__link__title{
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 2em;
+}
+.vacancies__link__texts{
+    display: flex;
+    gap: 1.5em;
+}
+.vacancies__link__text{
+    font-weight: 500;
+}

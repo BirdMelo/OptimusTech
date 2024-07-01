@@ -1,0 +1,22 @@
+#feedback{
+    background-color: var(--background-notice-color);
+    padding: 0em 2vh;
+    text-align: center;
+    padding: 5.5vh;
+
+}
+#feedback__subheading{
+    color: var(--hightlight-color);
+    margin-bottom: 16px;
+}
+#feedback__comment{
+    font-weight: 500;
+    margin-bottom: 2em;
+}
+#feedback__name{
+    font-weight: 500;
+    margin: 16px 0 4px 0;
+}
+#feedback__career{
+    color: var(--text-color);
+}

@@ -33,3 +33,6 @@
 .vacancies__link__text{
     font-weight: 500;
 }
+.vacancies__link__title,.vacancies__link__text{
+    color: var(--title-color);
+}

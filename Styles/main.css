@@ -5,19 +5,22 @@
 @import url('./talents.css');
 @import url('./vacancies.css');
 @import url('./feedback.css');
+@import url('./footer.css');
 
 :root{
     --background:#FFFFFF;
+    --background-footer:#F9FAFB;
     --title-color:#101828;
     --logo-color:#3A404E;
     --text-color:#667085;
+    --footer-end-color:#98A2B3;
     --border-link-color:#EAECF0;
+    --boder-email:#D0D5DD;
     --hightlight-color:#8E2424;
     --background-notice-color: #8E24240D;
     --default-font: "Inter", sans-serif
 }
 body{
-    padding: 1.125em 5vh;
     font-family: var(--default-font);
 }
 .titles{

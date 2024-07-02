@@ -3,7 +3,8 @@
     padding: 0em 2vh;
     text-align: center;
     padding: 5.5vh;
-
+    border-radius: 16px;
+    margin: 0em 7em 6em 7em;
 }
 #feedback__subheading{
     color: var(--hightlight-color);
